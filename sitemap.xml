@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://stevenhy.github.com/blog/2013/01/22/begins-with-photos/</loc>
+        <lastmod>2013-01-22T03:28:13-08:00</lastmod>
+    </url>
+    <url>
         <loc>http://stevenhy.github.com/blog/archives/</loc>
-        <lastmod>2013-01-22T01:56:20-08:00</lastmod>
+        <lastmod>2013-01-22T03:28:13-08:00</lastmod>
     </url>
     <url>
         <loc>http://stevenhy.github.com/</loc>
-        <lastmod>2013-01-22T01:56:20-08:00</lastmod>
+        <lastmod>2013-01-22T03:28:13-08:00</lastmod>
     </url>
     <url>
         <loc>http://stevenhy.github.com/robots.txt</loc>
