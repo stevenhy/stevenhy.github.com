@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Personal Blog]]></title>
+  <title><![CDATA[Data Is Distributed]]></title>
   <link href="http://stevenhy.github.com/atom.xml" rel="self"/>
   <link href="http://stevenhy.github.com/"/>
-  <updated>2013-01-22T02:38:06-08:00</updated>
+  <updated>2013-01-22T02:43:14-08:00</updated>
   <id>http://stevenhy.github.com/</id>
   <author>
     <name><![CDATA[Hao Yang]]></name>
